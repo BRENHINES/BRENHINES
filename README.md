@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TCHAUATEN YOPA SEREINA</h1>
-<h3 align="center">Une developpeuse Camerounaise passionée de Data science (Science des données)</h3>
+<h3 align="center">Une developpeuse Camerounaise passionée de Data science (Science des données) et de front-end development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenhines" alt="brenhines" /></a> </p>
 
