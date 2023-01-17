@@ -1,4 +1,4 @@
-![Header](./github-header-image%20(1).png)
+![Header](./banner.png)
 
 <h1 align="center">Hi 👋, Je suis TCHAUATEN YOPA SEREINA</h1>
 <h2 align="center">Une developpeuse Camerounaise passionée de Data science (Science des données) et de front-end development</h2>
