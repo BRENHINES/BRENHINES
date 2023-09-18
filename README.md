@@ -1,17 +1,17 @@
 ![Header](./banner.png)
 
 <h1 align="center">Hi 👋, Je suis TCHAUATEN YOPA SEREINA</h1>
-<h2 align="center">Une developpeuse Camerounaise passionée de Data science (Science des données) et de front-end development</h2>
+<h2 align="center">Une developpeuse passionée d' intelligence Artificielle, de front-end development et de UI/UX Design</h2>
 
-<img align="center" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" >
+<img align="center" alt="coding" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenhines" alt="brenhines" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **PRODUCTIVO**
+- 🔭 Je travaille actuellement sur mon portfolio
 
-- 🌱 J'apprends actuellement **Le WEB (Les bonnes pratiques), NUMPY, PANDAS, ETC**
+- 🌱 J'apprends actuellement **Le développement WEB Frontend , NUMPY, PANDAS, ETC**
 
-- 💬 Poser moi les questions à propos de **HTML, SASS, Python**
+- 💬 Poser moi les questions à propos de **HTML, SASS, CSS, JS, Python**
 
 - 📫 Comment me joindre **yopasereina1971@gmail.com**
 
