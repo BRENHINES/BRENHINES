@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-Je suis Sereina YOPA, une ingénieure passionnée par le développement logiciel, l'ingénierie des données et l'intelligence artificielle. Avec une solide expérience en Python et une maîtrise des technologies cloud, je conçois des solutions innovantes et performantes.
+## Je suis Sereina YOPA, une ingénieure passionnée par le développement logiciel, l'ingénierie des données et l'intelligence artificielle. Avec une solide expérience en Python et une maîtrise des technologies cloud, je conçois des solutions innovantes et performantes.
 
 
 ### 💻 Ce que je fais :
