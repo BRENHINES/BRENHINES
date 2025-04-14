@@ -89,10 +89,12 @@ Currently specializing in Data Engineering, I develop robust, high-performance, 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Brenhines&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <a href="https://github.com/brenhines/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brenhines&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Brenhines&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <a href="https://github.com/brenhines/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenhines&layout=donut&langs_count=5&card_width=320&theme=dark" />
+  </a>
 </p>
 
 # ✍️ Random Dev Quote
